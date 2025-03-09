@@ -1,2 +1,1 @@
-- 👋 Hi there, I’m @ashwinighone
-  
+Hi there 🐢, I'm Ashwini  Ghone
